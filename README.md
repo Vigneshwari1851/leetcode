@@ -18,6 +18,10 @@ Browse through the list of solved problems:
    - [Problem Description](https://leetcode.com/problems/complement-of-base-10-integer/)
    - [Solution](./complement-of-base-10-integer.cpp)
 
+4. **231. Power of two**
+   - [Problem Description](https://leetcode.com/problems/power-of-two/description/)
+   - [Solution](./power-of-two.cpp)
+
 ## How to Use
 
 Each solution file is named according to the LeetCode problem's title. You can click on the provided link to view the problem description and access the corresponding solution file.
