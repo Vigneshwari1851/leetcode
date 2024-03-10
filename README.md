@@ -13,6 +13,10 @@ Browse through the list of solved problems:
 2. **7. Reverse Integer**
    - [Problem Description](https://leetcode.com/problems/reverse-integer/description/?source=submission-ac)
    - [Solution](./Reverse%20Integer.cpp)
+     
+3. **1009. complement-of-base-10-integer**
+   - [Problem Description](https://leetcode.com/problems/complement-of-base-10-integer/)
+   - [Solution](./complement-of-base-10-integer.cpp)
 
 ## How to Use
 
